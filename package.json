@@ -1,0 +1,16 @@
+{
+  "name": "shopping-list-app",
+  "version": "1.0.0",
+  "description": "간단한 쇼핑 리스트 웹 앱 (바닐라 JS + localStorage)",
+  "main": "index.html",
+  "scripts": {
+    "test": "playwright test"
+  },
+  "keywords": ["shopping-list", "vanilla-js", "playwright"],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "@playwright/test": "^1.60.0"
+  }
+}

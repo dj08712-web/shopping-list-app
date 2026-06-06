@@ -1,0 +1,7 @@
+node_modules/
+test-results/
+playwright-report/
+
+# 민감 정보
+*.txt
+.env
